@@ -2,12 +2,12 @@
 
 ###
 
-<h4 align="center">Hello World!!Link Text](URL)</h4>
+<h4 align="center"><a href="https://josuk22.github.io/Portfolio/" target="_blank">Portfolio</a></h4>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif "  />
+  <img height="150" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif"  />
 </div>
 
 ###
@@ -98,5 +98,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake.svg" alt="Snake animation" />
-
-###
