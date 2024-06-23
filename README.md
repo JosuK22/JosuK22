@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" width = '700' src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif "  />
+  <img height="150" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif "  />
 </div>
 
 ###
@@ -83,9 +83,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosuK22&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosuK22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JosuK22&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JosuK22&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&border_radius=20&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosuK22&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&border_radius=20&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JosuK22&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=JosuK22&theme=dark_lover&column=-1&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -100,4 +100,6 @@
 <img src="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
 
