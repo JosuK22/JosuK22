@@ -2,12 +2,12 @@
 
 ###
 
-<h4 align="center">Visit my portfolio website<a href="https://josuk22.github.io/Portfolio/" target="_blank">Portfolio</a></h4>
+<h4 align="center"><a href="https://josuk22.github.io/Portfolio/" target="_blank">Visit my portfolio website</a></h4>
 
 ###
 
 <div align="center">
-  <img height="150" width = '300' src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif "  />
+  <img height="200" width = '700' src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif "  />
 </div>
 
 ###
