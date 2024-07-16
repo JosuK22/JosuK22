@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center"><a href="https://josuk22.github.io/Portfolio/" target="_blank">Visit my portfolio website</a></h4>
+<h4 align="center"><a href="https://josuk22.github.io/Portfolio/" target="_blank">😊 Visit my portfolio website 😊</a></h4>
 
 ###
 
