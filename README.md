@@ -1,105 +1,212 @@
-<h1 align="center">Hi 👋! My name is Joseph and I'm from India</h1>
+<h1 align="center">Hi 👋, I'm Joseph K Anoj</h1>
 
-###
+<h3 align="center">
+  Full Stack Developer · Frontend Specialist · UI/UX Enthusiast
+</h3>
 
-<h4 align="center"><a href="https://josuk22.github.io/Portfolio/" target="_blank">😊 Visit my portfolio website 😊</a></h4>
+<p align="center">
+  I build modern, scalable and user-focused web applications with
+  <strong>React, Next.js, TypeScript, Node.js and PostgreSQL.</strong>
+</p>
 
-###
-
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif "  />
-</div>
-
-###
-
-<div align="center">
+<p align="center">
+  <a href="https://josuk22.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-111827?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/joseph-k-anoj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/josu_k22/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="mailto:josephkanoj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:josephkanoj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a developer who enjoys turning ideas into polished, production-ready web applications.
+
+My focus is on building products that combine:
+
+* 🎨 Clean and thoughtful UI/UX
+* ⚡ Fast and responsive frontend experiences
+* 🧩 Maintainable component architecture
+* 🔐 Secure authentication and authorization
+* 🔌 Well-structured REST APIs
+* 🗄️ Scalable database design
+* 📱 Responsive experiences across devices
+* 🚀 Performance and developer experience
+
+I particularly enjoy working on **SaaS platforms, dashboards, CMS systems, form builders, productivity tools and interactive web experiences.**
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 🏗️ Building scalable SaaS and CMS architectures
+* ⚛️ Developing modern React / Next.js applications
+* 🧠 Exploring AI-assisted product development
+* 🎨 Improving UI/UX and frontend architecture
+* 🔐 Hardening authentication, authorization and API security
+* 🌍 Exploring opportunities with international and remote-first teams
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite" alt="Frontend technologies" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" alt="Backend technologies" />
+</p>
+
+### UI & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,materialui,bootstrap" alt="UI technologies" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" alt="Development tools" />
+</p>
+
+---
+
+## 🧰 Technologies I Work With
+
+| Area               | Technologies                             |
+| ------------------ | ---------------------------------------- |
+| **Languages**      | JavaScript · TypeScript · Java · Python  |
+| **Frontend**       | React · Next.js · Vite · HTML5 · CSS3    |
+| **Styling**        | Tailwind CSS · Material UI · Bootstrap   |
+| **State & Data**   | Context API · TanStack Query             |
+| **Backend**        | Node.js · Express.js · REST APIs         |
+| **Databases**      | PostgreSQL · MongoDB                     |
+| **Authentication** | JWT · Role-Based Access Control          |
+| **Tools**          | Git · GitHub · VS Code · Docker          |
+| **Design**         | Figma · UI/UX Design · Responsive Design |
+
+---
+
+## 💻 Featured Projects
+
+### 🧠 Quizzie
+
+A full-stack quiz creation and management platform.
+
+**Highlights**
+
+* Quiz creation and management
+* Interactive quiz experience
+* User authentication
+* Dynamic question handling
+* Responsive interface
+
+**Stack:** React · Node.js · Express · MongoDB
+
+---
+
+### 🏢 CMS & Website Management Platform
+
+A scalable CMS ecosystem for managing websites, content, forms and digital assets.
+
+**Highlights**
+
+* Website management
+* Content management
+* Form builder
+* Form submissions
+* Email templates
+* Media management
+* Role-based access
+* API-driven architecture
+* Responsive administration interface
+
+**Stack:** React · TypeScript · MUI · Node.js · REST APIs · PostgreSQL
+
+---
+
+### ✅ Task Manager
+
+A productivity application designed around managing tasks and workflows.
+
+**Stack:** React · Node.js · Express · MongoDB
+
+---
+
+### 🤖 Form-Bot
+
+A dynamic form platform focused on creating, managing and processing structured form submissions.
+
+**Stack:** React · Node.js · Express · MongoDB
+
+---
+
+### 📝 Pocket Notes
+
+A notes application built with a modern React frontend and persistent database storage.
+
+**Stack:** React · Vite · MongoDB
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub statistics" />
+  <img src="./profile/top-languages.svg" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="./profile/profile-details.svg" width="90%" alt="GitHub activity summary" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosuK22&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub contribution activity" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <img src="./output/snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://josuk22.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://wa.me/+919744788125" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/joseph-k-anoj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100009160193518" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="mailto:josephkanoj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <i>Building products, learning continuously, and turning ideas into software.</i>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JosuK22.JosuK22&"  />
-</div>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosuK22&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&border_radius=20&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosuK22&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&border_radius=20&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JosuK22&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JosuK22&theme=dark_lover&column=-1&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosuK22&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake.svg" alt="Snake animation" />
-
-###
-
-
+<p align="center">
+  ⭐ If you find something useful here, consider giving the repository a star!
+</p>
 
