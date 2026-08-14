@@ -161,13 +161,11 @@ A notes application built with a modern React frontend and persistent database s
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub statistics" />
-  <img src="./profile/top-languages.svg" height="180" alt="Top languages" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="./profile/profile-details.svg" width="90%" alt="GitHub activity summary" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 ---
