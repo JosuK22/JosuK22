@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joseph K Anoj</h1>
 
 <h3 align="center">
-  Full Stack Developer · Frontend Specialist · UI/UX Enthusiast
+  Frontend-focused Full Stack Developer
 </h3>
 
 <p align="center">
-  I build modern, scalable and user-focused web applications with
+  I build scalable, responsive and user-focused web applications with
   <strong>React, Next.js, TypeScript, Node.js and PostgreSQL.</strong>
 </p>
 
@@ -25,31 +25,47 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys turning ideas into polished, production-ready web applications.
+I'm a **frontend-focused full-stack developer** who enjoys turning complex product requirements into clean interfaces, maintainable architectures and production-ready applications.
 
-My focus is on building products that combine:
+My experience spans **SaaS platforms, CMS systems, dashboards, form builders, productivity tools and responsive web applications**.
 
-* 🎨 Clean and thoughtful UI/UX
-* ⚡ Fast and responsive frontend experiences
-* 🧩 Maintainable component architecture
-* 🔐 Secure authentication and authorization
-* 🔌 Well-structured REST APIs
-* 🗄️ Scalable database design
-* 📱 Responsive experiences across devices
-* 🚀 Performance and developer experience
+I care about building software that is:
 
-I particularly enjoy working on **SaaS platforms, dashboards, CMS systems, form builders, productivity tools and interactive web experiences.**
+* 🎨 **Well-designed** — clean, intuitive and accessible interfaces
+* ⚡ **Fast** — responsive experiences and performance-conscious architecture
+* 🧩 **Maintainable** — reusable components and scalable project structure
+* 🔐 **Secure** — authentication, authorization and API security
+* 📱 **Responsive** — consistent experiences across devices
+* 🚀 **Production-ready** — reliable APIs, data handling and deployment workflows
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🎯 What I Build
 
-* 🏗️ Building scalable SaaS and CMS architectures
-* ⚛️ Developing modern React / Next.js applications
-* 🧠 Exploring AI-assisted product development
-* 🎨 Improving UI/UX and frontend architecture
-* 🔐 Hardening authentication, authorization and API security
-* 🌍 Exploring opportunities with international and remote-first teams
+<p align="center">
+  <img src="https://img.shields.io/badge/SaaS_Platforms-111827?style=for-the-badge" alt="SaaS Platforms" />
+  <img src="https://img.shields.io/badge/CMS_%26_Admin_Systems-111827?style=for-the-badge" alt="CMS Systems" />
+  <img src="https://img.shields.io/badge/Dashboards-111827?style=for-the-badge" alt="Dashboards" />
+  <img src="https://img.shields.io/badge/Form_%26_Workflow_Systems-111827?style=for-the-badge" alt="Form Systems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive_Web_Apps-111827?style=for-the-badge" alt="Responsive Web Apps" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Auth_%26_Authorization-111827?style=for-the-badge" alt="Authentication and Authorization" />
+</p>
+
+---
+
+## 🔭 Currently
+
+* 🏗️ Building scalable **SaaS and CMS architectures**
+* ⚛️ Developing modern applications with **React, Next.js and TypeScript**
+* 🔌 Designing and integrating **REST APIs and backend services**
+* 🔐 Improving **authentication, authorization and API security**
+* 🎨 Refining **frontend architecture, accessibility and UI/UX**
+* 🤖 Exploring **AI-assisted software development workflows**
+* 🌍 Open to interesting opportunities with **international and remote-first teams**
 
 ---
 
@@ -64,36 +80,14 @@ I particularly enjoy working on **SaaS platforms, dashboards, CMS systems, form 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" alt="Backend and database technologies" />
 </p>
 
-### UI & Design
+### UI, Design & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,materialui,bootstrap" alt="UI technologies" />
+  <img src="https://skillicons.dev/icons?i=figma,materialui,bootstrap,git,github,vscode,docker,vercel" alt="UI, design and development tools" />
 </p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" alt="Development tools" />
-</p>
-
----
-
-## 🧰 Technologies I Work With
-
-| Area               | Technologies                             |
-| ------------------ | ---------------------------------------- |
-| **Languages**      | JavaScript · TypeScript · Java · Python  |
-| **Frontend**       | React · Next.js · Vite · HTML5 · CSS3    |
-| **Styling**        | Tailwind CSS · Material UI · Bootstrap   |
-| **State & Data**   | Context API · TanStack Query             |
-| **Backend**        | Node.js · Express.js · REST APIs         |
-| **Databases**      | PostgreSQL · MongoDB                     |
-| **Authentication** | JWT · Role-Based Access Control          |
-| **Tools**          | Git · GitHub · VS Code · Docker          |
-| **Design**         | Figma · UI/UX Design · Responsive Design |
 
 ---
 
@@ -101,7 +95,7 @@ I particularly enjoy working on **SaaS platforms, dashboards, CMS systems, form 
 
 ### 🧠 Quizzie
 
-A full-stack quiz creation and management platform.
+A full-stack quiz creation and management platform focused on creating interactive quizzes and managing questions through a responsive interface.
 
 **Highlights**
 
@@ -109,15 +103,17 @@ A full-stack quiz creation and management platform.
 * Interactive quiz experience
 * User authentication
 * Dynamic question handling
-* Responsive interface
+* Responsive UI
 
 **Stack:** React · Node.js · Express · MongoDB
+
+[🔗 Source Code](YOUR_QUIZZIE_REPOSITORY_URL) · [🌐 Live Demo](YOUR_QUIZZIE_DEMO_URL)
 
 ---
 
 ### 🏢 CMS & Website Management Platform
 
-A scalable CMS ecosystem for managing websites, content, forms and digital assets.
+A scalable CMS ecosystem for managing websites, content, forms and digital assets through a centralized administration platform.
 
 **Highlights**
 
@@ -131,49 +127,59 @@ A scalable CMS ecosystem for managing websites, content, forms and digital asset
 * API-driven architecture
 * Responsive administration interface
 
-**Stack:** React · TypeScript · MUI · Node.js · REST APIs · PostgreSQL
+**Stack:** React · TypeScript · Material UI · Node.js · REST APIs · PostgreSQL
+
+🔒 **Private / Client Project**
 
 ---
 
 ### ✅ Task Manager
 
-A productivity application designed around managing tasks and workflows.
+A productivity application designed around managing tasks and workflows with a responsive full-stack architecture.
 
 **Stack:** React · Node.js · Express · MongoDB
+
+[🔗 Source Code](YOUR_TASK_MANAGER_REPOSITORY_URL) · [🌐 Live Demo](YOUR_TASK_MANAGER_DEMO_URL)
 
 ---
 
 ### 🤖 Form-Bot
 
-A dynamic form platform focused on creating, managing and processing structured form submissions.
+A dynamic form platform for creating, managing and processing structured form submissions.
 
 **Stack:** React · Node.js · Express · MongoDB
+
+[🔗 Source Code](YOUR_FORM_BOT_REPOSITORY_URL) · [🌐 Live Demo](YOUR_FORM_BOT_DEMO_URL)
 
 ---
 
 ### 📝 Pocket Notes
 
-A notes application built with a modern React frontend and persistent database storage.
+A lightweight notes application built with a modern React frontend and persistent database storage.
 
 **Stack:** React · Vite · MongoDB
 
+[🔗 Source Code](YOUR_POCKET_NOTES_REPOSITORY_URL) · [🌐 Live Demo](YOUR_POCKET_NOTES_DEMO_URL)
+
 ---
 
-## 📊 GitHub Statistics
-
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosuK22&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub contribution activity" />
+  <i>GitHub statistics are generated automatically using GitHub Actions.</i>
 </p>
 
 ---
@@ -182,19 +188,19 @@ A notes application built with a modern React frontend and persistent database s
 
 <p align="center">
   <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake-light.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake.svg"
-    alt="GitHub contribution snake animation"
-  />
-</picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake.svg"
+      alt="GitHub contribution snake animation"
+    />
+  </picture>
 </p>
 
 ---
@@ -214,10 +220,10 @@ A notes application built with a modern React frontend and persistent database s
 </p>
 
 <p align="center">
-  <i>Building products, learning continuously, and turning ideas into software.</i>
+  <strong>Open to interesting engineering opportunities, collaborations and ambitious products.</strong>
 </p>
 
 <p align="center">
-  ⭐ If you find something useful here, consider giving the repository a star!
+  <i>Building products, solving problems, and continuously improving.</i>
 </p>
 
