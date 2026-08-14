@@ -1,8 +1,8 @@
-name: Generate Contribution Snake
+name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -10,24 +10,30 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate snake animation
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: JosuK22
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+            dist/snake.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-      - name: Commit generated files
-        uses: EndBug/add-and-commit@v9
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          add: "output"
-          message: "chore: update contribution snake"
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
