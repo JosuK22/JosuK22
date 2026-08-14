@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://josuk22.github.io/Portfolio/" target="_blank">
+  <a href="https://josephk.dev/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-111827?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/joseph-k-anoj" target="_blank">
@@ -204,7 +204,7 @@ A notes application built with a modern React frontend and persistent database s
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://josuk22.github.io/Portfolio/" target="_blank">
+  <a href="https://josephk.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/joseph-k-anoj" target="_blank">
