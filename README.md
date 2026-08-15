@@ -86,7 +86,7 @@ I care about building software that is:
 ### UI, Design & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,materialui,bootstrap,git,github,vscode,docker,vercel" alt="UI, design and development tools" />
+  <img src="https://skillicons.dev/icons?i=figma,materialui,bootstrap,git,github,vscode,vercel" alt="UI, design and development tools" />
 </p>
 
 ---
