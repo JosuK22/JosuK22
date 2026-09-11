@@ -193,7 +193,7 @@ A lightweight notes application built with a modern React frontend and persisten
       srcset="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake.svg"
     />
     <source
-      media="(prefers-color-scheme: light)"
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/JosuK22/JosuK22/output/snake-light.svg"
     />
     <img
