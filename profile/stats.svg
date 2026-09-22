@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Joseph K Anoj&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 20, Total Commits  (last year) : 101, Total PRs: 7, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 20, Total Commits  (last year) : 103, Total PRs: 8, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 211.3500227172532;
+        stroke-dashoffset: 210.3899372699592;
       }
     }
   
@@ -176,7 +176,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >101</text>
+      >103</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >7</text>
+      >8</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
