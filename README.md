@@ -163,27 +163,6 @@ A lightweight notes application built with a modern React frontend and persisten
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <i>GitHub statistics are generated automatically using GitHub Actions.</i>
-</p>
-
----
-
 ## 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
