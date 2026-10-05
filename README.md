@@ -106,13 +106,6 @@ I care about building software that is:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=JosuK22&theme=transparent&hide_border=true"
-    alt="Joseph K Anoj's GitHub Streak"
-  />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
