@@ -119,8 +119,8 @@ I care about building software that is:
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=JosuK22&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="Joseph K Anoj's GitHub Trophies"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=JosuK22&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="Joseph K Anoj GitHub Trophies"
   />
 </p>
 
