@@ -95,11 +95,6 @@ I care about building software that is:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=JosuK22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    alt="Joseph K Anoj's GitHub Stats"
-    height="180"
-  />
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuK22&layout=compact&theme=transparent&hide_border=true&langs_count=8"
     alt="Joseph K Anoj's Top Languages"
     height="180"
