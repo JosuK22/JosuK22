@@ -91,6 +91,41 @@ I care about building software that is:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JosuK22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    alt="Joseph K Anoj's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuK22&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    alt="Joseph K Anoj's Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=JosuK22&theme=transparent&hide_border=true"
+    alt="Joseph K Anoj's GitHub Streak"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=JosuK22&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="Joseph K Anoj's GitHub Trophies"
+  />
+</p>
+
+---
+
 ## 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
