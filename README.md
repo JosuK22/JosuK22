@@ -6,7 +6,7 @@
 
 <p align="center">
   I build scalable, responsive and user-focused web applications with
-  <strong>React, Next.js, TypeScript, Node.js and PostgreSQL.</strong>
+  <strong>React, Next.js, TypeScript, Node.js, PostgreSQL and MongoDB.</strong>
 </p>
 
 <p align="center">
